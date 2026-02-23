@@ -8,5 +8,19 @@
  * @author hc24abp
  */
 public class Complex {
-    
+    private double real;
+    private double imaginary;
+
+    public Complex(real double, imaginary double){
+        this.real = real;
+        this.imaginary = imaginary;
+  
+}
+
+
+
+
+
+
+
 }
